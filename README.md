@@ -1,6 +1,6 @@
 Overview
 
-This project is a practical application of the skills I learned in my Google Cybersecurity Certificate.
+This project is a practical application of the skills I learned in my Google Automate Cybersecurity Task with Python Certificate.
 
 Project Goal: "Allow List Updater"
 
